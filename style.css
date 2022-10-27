@@ -2,6 +2,9 @@ p{
     text-align: center;
 
 }
-body{
+body {
     background-color:#cccccc;
+}
+strong {
+    color: #ff0000;
 }
