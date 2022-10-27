@@ -6,5 +6,5 @@ body {
     background-color:#cccccc;
 }
 em strong {
-    color: red;
+    color: rgb(red, green, blue);
 }
